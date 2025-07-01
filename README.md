@@ -1,6 +1,7 @@
 Etimología
 ¿De dónde viene el término "README"?
 
+
 La nomenclatura se remonta por lo menos a la década de los 70's, incluso podría remontarse a los días de las notas de papel informativas situadas sobre tarjetas perforadas donde encontramos "READ ME" (¡LEEME!) garabateado por encima, describiendo así su uso.
 
 Un lector1 ha sugerido que el título README puede ser un guiño a Las aventuras de Alicia en el país de las maravillas de Lewis Carroll, donde una poción y un pastel están etiquetados como "BÉBEME" y "CÓMEME", respectivamente.
